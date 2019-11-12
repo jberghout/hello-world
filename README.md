@@ -13,5 +13,8 @@ These are edits created in a readme-edits branch of github.
 - [dangitgit](https://dangitgit.com/)
 - Rebecca Barter: [A quick guide to developing a reproducible and consistent data science workflow](http://www.rebeccabarter.com/blog/2019-03-07_reproducible_pipeline/)
 
+## Example integration tools
+- workflowr: https://github.com/jdblischak/workflowr
+
 ## Example GitHub projects
 - https://github.com/dccc-lab/AsthmaGXSigs
