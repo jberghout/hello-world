@@ -4,4 +4,14 @@ Git familiarizing
 
 These are edits created in a readme-edits branch of github.
 
-Editor: JB
+  
+# Recommended resources for learning how to effectively use and incorporate GitHub into my research.
+
+- [Happy Git and GitHub for the useR](https://happygitwithr.com/)
+- [git to know git: an 8 minute introduction](http://research.libd.org/rstatsclub/post/git-to-know-git/#.XcsZd5JKi8p)
+- Presentation by Dr. Anna Krystalli on Putting the R into Reproducible Research: [https://annakrystalli.me/talks/r-in-repro-research-dc.html#1](https://annakrystalli.me/talks/r-in-repro-research-dc.html#1)
+- [dangitgit](https://dangitgit.com/)
+- Rebecca Barter: [A quick guide to developing a reproducible and consistent data science workflow](http://www.rebeccabarter.com/blog/2019-03-07_reproducible_pipeline/)
+
+## Example GitHub projects
+- https://github.com/dccc-lab/AsthmaGXSigs
